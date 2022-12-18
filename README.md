@@ -9,7 +9,7 @@
 
 <div>
   <h1>About me</h1>
-  <p align="justify">Hi, my name is Igor Ignácio, I'm a 20 years old Fullstack intern from Brazil and I'm currently working for CWI Software, nice to meet you! </p>
+  <p align="justify">Hi, my name is Igor Ignácio, I'm a 20 years old Fullstack intern from Brazil and I'm currently working for CWI Software. </p>
 </div>
 
 <div> 
