@@ -27,7 +27,7 @@
    
    <div>
       <h1>Projects</h1>
-      <img src='https://github-readme-stats.vercel.app/api/pin/?username=igor-ign&repo=nyz&theme=dark'/>
+      <img src='https://github-readme-stats.vercel.app/api/pin/?username=igor-ign&repo=Nyz&theme=dark'/>
    </div> 
   
   <h1>Social Media for contact</h1>
