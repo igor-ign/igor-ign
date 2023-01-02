@@ -42,5 +42,4 @@
     <li>LinkedIn: https://www.linkedin.com/in/igor-ign%C3%A1cio-204b2b244/</li>
   </ul>
 </div>
-  
-![Snake animation](https://github.com/igor-ign/igor-ign/blob/output/github-contribution-grid-snake.svg)
+ 
