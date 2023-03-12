@@ -1,12 +1,9 @@
 
 <div>
   <h1>About me</h1>
-  <p align="justify">Hi, my name is Igor Ignácio, I'm a 20 years old Fullstack intern from Brazil and I'm currently working for CWI Software. </p>
-  <p align-"justify">In the end of my elementary school I did a selection test for a school that provides the high school with an integrated technical course of the student choise, this school is called Fundação Escola Técnica Liberato Salzano Vieira da Cunha and it is located in Novo Hamburgo, Brazil. The tech course that I chose was the chemistry technical course, one of the most disputed courses of the school. I did great in the test and then Liberato invited me to be a chemistry student, since that event I have studied in this school for 3 years but I decided to leave because I wasn't happy with the course and during that time I had no purpose. I saw my colleagues fascinated with every detail that were taught to us every day, but I was not on the same mood, all that formulas and all the calculation were boring for me.</p>
-  <p align="justify">After I left Liberato I found myself lost because of the doubt about what profession to follow, this is the part of my life where the IT world shows up. A friend of mine called João Lucca, who is also a developer, said to me that I should try to learn some programming language to see if I like it. With a few days of study I was amazed with this whole new universe and then I was decided about what path I should follow. After meeting the front-end development world I won my excitment back and everything started to make sense to me.</p>
-  <p align="justify">Nowadays I know that our happiness depend on many factors like a healthy lifestyle, good friendships and a good relationship with your family. For myself, I can say that a percentage of my happiness depends on programming. I love programming and I also love to challange myself to be a better developer and a better person everyday. The confort zone is something that I try to avoid to stay in for much longer because I know that the things that really make us grow up as professionals, independent on the area, and as persons as well are the "uncomfortable things" of life.<p>
-</div>
-
+  <p align="justify">Hi, my name is Igor Ignácio, I'm a 20 years old Brazilian working as a Fullstack intern for CWI Software. </p>
+  
+   <p align="justify">Aiming always to grow as a developer and as a person, trying always to contribute with creative solutions, scalable and maintainable code. I'm currently a fullstack developer but in the future my goal is to work as a front-end developer. Passionate in acquiring and sharing knowledge, trying always to get out of my confort zone because most of things in life that teach us something are not confortable.</p>
 <div> 
   <div style="display: inline_block"><br>
     <h1>Technologies</h1>
