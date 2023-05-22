@@ -1,7 +1,7 @@
 
 <div>
   <h1>About me</h1>
-  <p align="justify">Hi, my name is Igor Ignácio, I'm a 20 years old Brazilian working as a Fullstack intern for CWI Software. </p>
+  <p align="justify">Hi, my name is Igor Ignácio, I'm a 21 years old Brazilian working as a Fullstack intern for CWI Software. </p>
   
    <p align="justify">Aiming always to grow as a developer and as a person, trying always to contribute with creative solutions, scalable and maintainable code. I'm currently a fullstack developer but in the future my goal is to work as a front-end developer. Passionate in acquiring and sharing knowledge, trying always to get out of my confort zone because most of things in life that teach us something are not confortable.</p>
 <div> 
