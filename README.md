@@ -3,7 +3,7 @@
   <h1>About me</h1>
   <p align="justify">Hi, my name is Igor Ignácio, I'm a 22 years old Brazilian working as a front-end developer for CWI Software. </p>
   
-   <p align="justify">iming always to grow as a developer and as a person, trying always to contribute with creative solutions, scalable and maintainable code. Passionate in acquiring and sharing knowledge, trying always to get out of my confort zone because most of things in life that teach us something are not confortable. Passionate about front-end development and working in the field since 2022</p>
+   <p align="justify">Aiming always to grow as a developer and as a person, trying always to contribute with creative solutions, scalable and maintainable code. Passionate in acquiring and sharing knowledge, trying always to get out of my confort zone because most of things in life that teach us something are not confortable. Passionate about front-end development and working in the field since 2022</p>
 <div> 
   <div style="display: inline_block"><br>
     <h1>Technologies</h1> 
